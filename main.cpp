@@ -16,6 +16,7 @@ int main()
     cout << x * y << endl;
     cout << x / y << endl;
     cout << x % y << endl;
+    //added this line for commit
 
     return 0;
 }
